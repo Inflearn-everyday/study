@@ -6,4 +6,4 @@ for i in word:
 if arr.count(max(arr))>1:
     print('?')
 else:
-    print(chr(arr,index(max(arr))+ord('A')))
+    print(chr(arr.index(max(arr))+ord('A')))
