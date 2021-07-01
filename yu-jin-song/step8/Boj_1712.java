@@ -46,4 +46,5 @@ public class Boj_1712 {
 		
 		System.out.println(cnt);
 	}
+	
 }
