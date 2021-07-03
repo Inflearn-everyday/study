@@ -14,9 +14,7 @@ public class Boj_2292 {
 			int start = line;
 		
 			for(int i=2; i<=n; i++) {
-				System.out.println("현재 방 번호 : " + i);
 				if(i-start == 6*(line-1)) {
-					System.out.println("현재 라인 : " + line + ", 방 시작 번호 : " + start);
 					line++;
 					start = i;
 				}
