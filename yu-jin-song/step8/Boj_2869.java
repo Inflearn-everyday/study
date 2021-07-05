@@ -15,10 +15,9 @@ public class Boj_2869 {
 		int v = Integer.parseInt(st.nextToken());
         
         int days = (v-a)/(a-b) + 1;
-        int namugee = (v-a)%(a-b);
         
-        if(namugee != 0)
-        	days += 1;
+        if((v-a)%(a-b) != 0)
+        	days++;
 		
 		System.out.println(days);
 	}
