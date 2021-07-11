@@ -32,4 +32,5 @@ public class Boj_1978 {
 		
 		return true;  //루프 끝나면 나누어지는 수가 존재하지 않으므로
 	}
+	
 }
