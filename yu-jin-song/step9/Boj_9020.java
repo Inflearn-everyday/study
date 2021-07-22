@@ -14,7 +14,7 @@ public class Boj_9020 {
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
 		int t = Integer.parseInt(br.readLine());
-		int i, j, k, n, p1=0, p2=0, minus, temp, cnt=0;
+		int i, j, k, n, p1=0, p2=0, minus, temp, dif;
 		
 		boolean[] prime = new boolean[10001];
 		ArrayList<Integer> sosu = new ArrayList<>();
@@ -39,12 +39,15 @@ public class Boj_9020 {
 			
 			minus = sosu.get(sosu.size()-1) - sosu.get(0);
 			
-			for(j=2; j<n; j++) {
-				temp = n-j;
-				if(prime[j] && prime[temp] && temp < minus) {
-					minus = temp;
-					p1 = j;
-					p2 = temp;
+			for(j=0; j<sosu.size(); j++) {
+				temp = n - sosu.get(j);
+				if(temp>=2 && prime[temp]) {
+					dif = Math.abs(temp - sosu.get(j));
+					if(dif < minus) {
+						minus = dif;
+						p1 = sosu.get(j);
+						p2 = temp;
+					}
 				}
 			}
 			
