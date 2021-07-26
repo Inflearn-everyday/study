@@ -28,7 +28,6 @@
 
 <details>
 <summary>이전 커밋 현황</summary>
-<div markdown="1">
 
 # 2021년 8월 커밋 현황 
 |       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
