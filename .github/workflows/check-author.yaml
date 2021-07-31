@@ -3,8 +3,6 @@ name: Automatic check author
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   check-author-and-update-readme:
@@ -31,7 +29,7 @@ jobs:
         python .utils/update.py
       env:
         AUTHOR: ${{ env.author }}
-    - name: commit
+    - name: Commit
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
