@@ -16,7 +16,7 @@ jobs:
     steps:
     - name: check-author
       run: | 
-        echo "${{ github.event.pusher.name }}" >> $AUTHOR
+        echo "author=${{ github.event.pusher.name }}" >> $GITHUB_ENV
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
@@ -30,5 +30,5 @@ jobs:
       run: |
         python .utils/update.py
       env:
-        AUTHOR: $AUTHOR
+        AUTHOR: ${{ env.author }}
         
