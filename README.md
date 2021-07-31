@@ -15,25 +15,6 @@
   <img src="https://contrib.rocks/image?repo=Inflearn-everyday/study" />
 </a>
 
-  
-# 2021년 7월 커밋 현황
-|       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
-|:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
-| 07/26 |      ✅      |      ✅     |     ✅    |    ✅   |      ✅    |     ✅     |   ✅   |    ✅    |
-| 07/27 |      ✅      |      ✅     |     ✅    |    ✅   |      ✅      |     ✅     |   ✅   |     ✅    |
-| 07/28 |      ✅      |      ✅     |     ✅    |    d   |      ✅      |     f     |   ✅   |     h    |
-| 07/29 |      ✅      |      ✅     |     ✅    |    ✅    |      ✅      |     ✅     |   ✅   |     ✅    |
-| 07/30 |      ✅      |      ✅     |     c    |    ✅   |      ✅      |     ✅     |   ✅   |     ✅    |
-| 07/31 |      ✅      |      ✅     |     ✅    |    ✅    |      ✅      |     ✅     |   ✅   |     ✅    |
-
-<details>
-<summary>이전 커밋 현황</summary>
-
-</div>
-</details>
-
-<details>
-<summary>다음 달 커밋 현황 템플릿</summary>
 
 # 2021년 8월 커밋 현황 
 |       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
@@ -70,6 +51,25 @@
 | 08/30 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 08/31 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 
+<details>
+<summary>이전 커밋 현황</summary>
+
+# 2021년 7월 커밋 현황
+|       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
+|:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
+| 07/26 |      ✅      |      ✅     |     ✅    |    ✅   |      ✅    |     ✅     |   ✅   |    ✅    |
+| 07/27 |      ✅      |      ✅     |     ✅    |    ✅   |      ✅      |     ✅     |   ✅   |     ✅    |
+| 07/28 |      ✅      |      ✅     |     ✅    |    d   |      ✅      |     f     |   ✅   |     h    |
+| 07/29 |      ✅      |      ✅     |     ✅    |    ✅    |      ✅      |     ✅     |   ✅   |     ✅    |
+| 07/30 |      ✅      |      ✅     |     c    |    ✅   |      ✅      |     ✅     |   ✅   |     ✅    |
+| 07/31 |      ✅      |      ✅     |     ✅    |    ✅    |      ✅      |     ✅     |   ✅   |     ✅    |
+
+</div>
+</details>
+
+<details>
+<summary>다음 달 커밋 현황 템플릿</summary>
+
 # 2021년 9월 커밋 현황 
 |       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
@@ -103,5 +103,6 @@
 | 09/28 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/29 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/30 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+
 </div>
 </details>
