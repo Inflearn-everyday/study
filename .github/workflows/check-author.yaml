@@ -16,6 +16,8 @@ jobs:
       uses: szenius/set-timezone@v1.0
       with:
         timezoneLinux: "Asia/Seoul"
+        timezoneMacos: "Asia/Seoul"
+        timezoneWindows: "Korea Standard Time"
     - name: Check author
       run: | 
         echo "author=${{ github.event.pusher.name }}" >> $GITHUB_ENV
