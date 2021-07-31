@@ -6,23 +6,17 @@ on:
   pull_request:
     branches: [ main ]
 
-env:
-  AUTHOR: someone
-  
 jobs:
-  check-author:
-    runs-on: ubuntu-latest
-    steps:
-    - name: check-author
-      run: | 
-        echo "${{ github.event.pusher.name }}" >> $AUTHOR
-  update-readme:
+  check-author-and-update-readme:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: true
       matrix:
         python-version: [3.8]
     steps:
+    - name: check-author
+      run: | 
+        echo "${{ github.event.pusher.name }}" >> $AUTHOR
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
