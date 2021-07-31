@@ -12,7 +12,11 @@ jobs:
       matrix:
         python-version: [3.8]
     steps:
-    - name: check-author
+    - name: Set Timezone
+      uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: "Asia/Seoul"
+    - name: Check author
       run: | 
         echo "author=${{ github.event.pusher.name }}" >> $GITHUB_ENV
     - uses: actions/checkout@v2
