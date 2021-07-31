@@ -2,7 +2,13 @@ name: Automatic check author
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+    paths-ignore:
+      - '**.md'
+      - '.github/**'
+      - '.utils/**'
+      - 'requirements.txt'
 
 jobs:
   check-author-and-update-readme:
@@ -46,5 +52,5 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git commit -am "auto-commit: update README.md"
+        git commit -am "auto-commit: ${{ github.event.pusher.name }} commited!"
         git push
