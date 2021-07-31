@@ -8,7 +8,7 @@
 
 > Git 관련 문제가 발생한 경우, 톡방에 에러 내용 공유해서 함께 해결해봐요!
 
-> 테이블 구성이 흐트러지면, 어느 위치에 입력을 해야할 지 헷갈릴 수 있어서, 고유한 알파벳을 부여해서 쉽게 식별할 수 있도록 해두었습니다
+> 2021.07.31 - 현재 커밋 자동 체크 기능 테스트 중입니다. 이슈 발생 시, GitHub Issues 기능과 채팅방을 활용해 제보 부탁드려요 😄
 
 # Contributors
 <a href="https://github.com/Inflearn-everyday/study/graphs/contributors">
