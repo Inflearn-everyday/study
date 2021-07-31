@@ -15,8 +15,7 @@ jobs:
     steps:
     - name: check-author
       run: | 
-        echo "${{ github.event.pusher.name }}"
-        env.AUTHOR = ${{ github.event.pusher.name }}
+        echo "${{ github.event.pusher.name }}" >> $env.AUTHOR
   update-readme:
     runs-on: ubuntu-latest
     strategy:
