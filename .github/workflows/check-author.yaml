@@ -1,7 +1,5 @@
 name: Automatic check author
 
-author: wookiist
-
 on:
   push:
     branches: [ main ]
