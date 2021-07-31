@@ -14,7 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: check-author
-      run: echo "${{ github.event.pusher.name }}" > ${{ env.AUTHOR }}
+      run: | 
+        echo "${{ github.event.pusher.name }}"
+        env.AUTHOR = ${{ github.event.pusher.name }}
   update-readme:
     runs-on: ubuntu-latest
     strategy:
