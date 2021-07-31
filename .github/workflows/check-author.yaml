@@ -15,7 +15,7 @@ jobs:
     steps:
     - name: check-author
       run: | 
-        echo "${{ github.event.pusher.name }}" >> ${{ env.AUTHOR }}
+        echo "${{ github.event.pusher.name }}" >> $AUTHOR
   update-readme:
     runs-on: ubuntu-latest
     strategy:
@@ -36,5 +36,5 @@ jobs:
       run: |
         python .utils/update.py
       env:
-        AUTHOR: ${{ env.AUTHOR }}
+        AUTHOR: $AUTHOR
         
