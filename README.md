@@ -20,7 +20,7 @@
 |       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
 | 08/01 |      ✅      |      b     |     ✅    |    d    |      e      |     ✅     |   ✅   |     ✅    |
-| 08/02 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 08/02 |      ✅      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 08/03 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 08/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 08/05 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
