@@ -17,10 +17,10 @@
 
 
 # 2021년 8월 커밋 현황 
-|       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
+|       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
 | 08/01 |      ✅      |      b     |     ✅    |    d    |      e      |     ✅     |   ✅   |     ✅    |
-| 08/02 |      ✅      |      ✅     |     ✅    |    d    |      e      |     ✅     |   ✅   |     ✅    |
+| 08/02 |      ✅      |      ✅     |     ✅    |     ✅    |      e      |     ✅     |   ✅   |     ✅    |
 | 08/03 |      a      |      ✅     |     ✅    |    d    |      e      |     f     |   ✅   |     h    |
 | 08/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 08/05 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
@@ -55,7 +55,7 @@
 <summary>이전 커밋 현황</summary>
 
 # 2021년 7월 커밋 현황
-|       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
+|       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
 | 07/26 |      ✅      |      ✅     |     ✅    |    ✅   |      ✅    |     ✅     |   ✅   |    ✅    |
 | 07/27 |      ✅      |      ✅     |     ✅    |    ✅   |      ✅      |     ✅     |   ✅   |     ✅    |
@@ -71,7 +71,7 @@
 <summary>다음 달 커밋 현황 템플릿</summary>
 
 # 2021년 9월 커밋 현황 
-|       | yu-jin-song | dahyun1023 | wookiist | hsyKim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
+|       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
 | 09/01 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/02 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
