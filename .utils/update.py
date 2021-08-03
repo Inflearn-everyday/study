@@ -8,7 +8,7 @@ author_mapper = {
     'yu-jin-song': 'a',
     'dahyun1023': 'b',
     'wookiist': 'c',
-    'hsyKim1': 'd',
+    'hysKim1': 'd',
     'realcrystal': 'e',
     'yeGenieee': 'f',
     'Le0sy': 'g',
