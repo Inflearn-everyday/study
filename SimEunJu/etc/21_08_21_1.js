@@ -1,4 +1,4 @@
-// ㅇㄷㅈ
+// ㅇㄷㅈ 1
 function solution(passwords, s) {
     const inputs = s.split("#");
     const passwordPair = {};
