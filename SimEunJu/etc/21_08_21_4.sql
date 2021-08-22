@@ -1,0 +1,15 @@
+// ㄱㄹ 4
+-- 코드를 입력하세요
+SELECT EMPLOYEE_ID, 
+    CASE 
+        WHEN CAR_CNT >= 4 THEN '최우수 사원'
+        WHEN CAR_CNT = 2 OR CAR_CNT = 3 THEN '우수 사원'
+        WHEN CAR_CNT = 1 THEN '일반 사원'
+    END AS '분류 상태',
+    CAR_CNT AS 'COUNT'
+FROM (
+    SELECT EMPLOYEE_ID, COUNT(CAR_ID) AS CAR_CNT
+    FROM SELLINGS
+    GROUP BY EMPLOYEE_ID
+) SELL_CNT
+ORDER BY EMPLOYEE_ID ASC
