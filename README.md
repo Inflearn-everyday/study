@@ -49,7 +49,7 @@
 | 08/28 |      a      |      b     |     ✅    |    d    |      e      |     f     |   ✅   |     ✅    |
 | 08/29 |      a      |      b     |     c    |    ✅    |      e      |     ✅     |   ✅   |     ✅    |
 | 08/30 |      a      |      ✅     |     ✅    |    d    |      e      |     f     |   ✅   |     h    |
-| 08/31 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 08/31 |      a      |      b     |     ✅    |    d    |      e      |     f     |   g   |     h    |
 
 <details>
 <summary>이전 커밋 현황</summary>
