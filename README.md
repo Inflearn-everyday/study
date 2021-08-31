@@ -73,7 +73,7 @@
 # 2021년 9월 커밋 현황 
 |       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
-| 09/01 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/01 |      a      |      ✅     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/02 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/03 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
