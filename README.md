@@ -15,7 +15,43 @@
   <img src="https://contrib.rocks/image?repo=Inflearn-everyday/study" />
 </a>
 
+# 2021년 9월 커밋 현황 
+|       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
+|:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
+| 09/01 |      a      |      ✅     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/02 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/03 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/05 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/06 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/07 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/08 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/09 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/10 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/11 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/12 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/13 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/14 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/15 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/16 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/17 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/18 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/19 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/20 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/21 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/22 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/23 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/24 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/25 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/26 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/27 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/28 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/29 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/30 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 
+<details>
+<summary>이전 커밋 현황</summary>
+  
 # 2021년 8월 커밋 현황 
 |       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
@@ -51,9 +87,6 @@
 | 08/30 |      a      |      ✅     |     ✅    |    d    |      e      |     f     |   ✅   |     h    |
 | 08/31 |      a      |      b     |     ✅    |    d    |      e      |     ✅     |   g   |     ✅    |
 
-<details>
-<summary>이전 커밋 현황</summary>
-
 # 2021년 7월 커밋 현황
 |       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
@@ -69,40 +102,41 @@
 
 <details>
 <summary>다음 달 커밋 현황 템플릿</summary>
-
-# 2021년 9월 커밋 현황 
+  
+# 2021년 10월 커밋 현황 
 |       | yu-jin-song | dahyun1023 | wookiist | hyskim1 | realcrystal | yeGenieee | Le0sy | SimEunJu |
 |:-----:|:-----------:|:----------:|:--------:|:-------:|:-----------:|:---------:|:-----:|:--------:|
-| 09/01 |      a      |      ✅     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/02 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/03 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/05 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/06 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/07 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/08 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/09 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/10 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/11 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/12 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/13 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/14 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/15 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/16 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/17 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/18 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/19 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/20 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/21 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/22 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/23 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/24 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/25 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/26 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/27 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/28 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/29 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/30 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-
+| 10/01 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/02 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/03 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/05 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/06 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/07 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/08 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/09 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/10 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/11 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/12 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/13 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/14 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/15 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/16 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/17 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/18 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/19 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/20 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/21 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/22 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/23 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/24 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/25 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/26 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/27 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/28 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/29 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/30 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/31 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+  
 </div>
 </details>
