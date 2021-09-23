@@ -40,7 +40,7 @@
 | 09/20 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/21 |      a      |      b     |     c    |    d    |      e      |     ✅     |   g   |     h    |
 | 09/22 |      a      |      b     |     c    |    d    |      e      |     ✅     |   g   |     h    |
-| 09/23 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/23 |      a      |      b     |     ✅    |    d    |      e      |     f     |   g   |     h    |
 | 09/24 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/25 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/26 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
