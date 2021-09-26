@@ -44,7 +44,7 @@
 | 09/24 |      a      |      b     |     ✅    |    d    |      e      |     f     |   g   |     h    |
 | 09/25 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/26 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 09/27 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 09/27 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     ✅    |
 | 09/28 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/29 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 09/30 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
