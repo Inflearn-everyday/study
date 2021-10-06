@@ -23,7 +23,7 @@
 | 10/03 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 10/04 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 10/05 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
-| 10/06 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
+| 10/06 |      a      |      b     |     c    |    d    |      e      |     ✅     |   g   |     h    |
 | 10/07 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 10/08 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
 | 10/09 |      a      |      b     |     c    |    d    |      e      |     f     |   g   |     h    |
